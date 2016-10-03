@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\Folders\Projects\Week 4\CustomGenericListClass\CustomGenericListClass\bin\Debug\CustomGenericListClass.exe.config
+C:\Users\Owner\Desktop\Folders\Projects\Week 4\CustomGenericListClass\CustomGenericListClass\obj\Debug\CustomGenericListClass.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Folders\Projects\Week 4\CustomGenericListClass\CustomGenericListClass\bin\Debug\CustomGenericListClass.exe
+C:\Users\Owner\Desktop\Folders\Projects\Week 4\CustomGenericListClass\CustomGenericListClass\bin\Debug\CustomGenericListClass.pdb
+C:\Users\Owner\Desktop\Folders\Projects\Week 4\CustomGenericListClass\CustomGenericListClass\obj\Debug\CustomGenericListClass.exe
+C:\Users\Owner\Desktop\Folders\Projects\Week 4\CustomGenericListClass\CustomGenericListClass\obj\Debug\CustomGenericListClass.pdb
